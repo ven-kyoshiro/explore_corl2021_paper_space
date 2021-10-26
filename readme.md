@@ -27,4 +27,4 @@
 - Have fun;)
 
 ## Example
-i![](newplot.png)
+![](newplot.png)

@@ -1,4 +1,4 @@
-# Explora CoRL 2021 paper space
+# Explore CoRL 2021 paper space
 - This program can map corl 2021 papers into 2D figure.
    - Using doc2vec and tfidf of gensim
 - It might help your exploring in the paper space.

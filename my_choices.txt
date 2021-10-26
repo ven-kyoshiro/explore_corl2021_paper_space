@@ -1,0 +1,7 @@
+18,65,71,92,171,183,107,100
+multi
+####### memo ###########
+- Please enter your marked paper id in the first row devided with ","
+- It will display as red
+- Please enter the word you want to mark up in the second row. 
+- It will display as green
